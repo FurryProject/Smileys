@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Furry Project Smileys
 // @namespace    https://github.com/FurryProject/Smileys
-// @version      1.
+// @version      1.0
 // @author       FurryProject
 // @match        http://atelier801.com/*
 // @grant        none
